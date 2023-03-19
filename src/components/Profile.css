@@ -1,0 +1,23 @@
+.Profile {
+    display: inline;
+}
+
+.Profile ul li {
+    display: inline;
+}
+
+.Profile ul li a {
+    color: #04aa6d
+}
+
+.Profile p {
+    font-weight: 300;
+    float: right;
+}
+
+.Profile li a, .Profile li a:link, .Profile li a:visited {
+    display: block;
+    padding: 2px 5px 2px 5px;
+    float: right;
+    margin: 0 5px 0 0;
+}
